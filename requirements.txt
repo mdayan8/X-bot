@@ -1,3 +1,4 @@
-tweepy
-requests
-python-dotenv
+flask==3.0.2
+pyTelegramBotAPI==4.16.1
+tweepy==4.15.0
+requests==2.32.3
